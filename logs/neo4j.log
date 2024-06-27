@@ -1,0 +1,293 @@
+2024-06-27 15:16:31.891+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2024-06-27 15:16:31.894+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2024-06-27 15:16:31.894+0000 INFO  Logging config in use: File '/Users/rishis/Library/Application Support/Neo4j Desktop/Application/relate-data/dbmss/dbms-189dfc48-e7bb-4890-a233-1123605f29a6/conf/user-logs.xml'
+2024-06-27 15:16:31.898+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2024-06-27 15:16:31.947+0000 WARN  Use of deprecated setting 'dbms.jvm.additional'. It is replaced by 'server.jvm.additional'.
+2024-06-27 15:16:31.947+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2024-06-27 15:16:31.947+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2024-06-27 15:16:31.947+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2024-06-27 15:16:31.949+0000 INFO  Starting...
+2024-06-27 15:16:33.752+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:5000]'} to '[localhost:5000]'
+2024-06-27 15:16:34.519+0000 INFO  ======== Neo4j 5.20.0 ========
+2024-06-27 15:16:34.535+0000 INFO  This instance is ServerId{b79c8c59} (b79c8c59-1761-4b62-9ec6-1ad4108ccc73)
+2024-06-27 15:16:34.726+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:5000]'} to '[localhost:5000]'
+2024-06-27 15:16:36.924+0000 INFO  Default database 'neo4j' is created
+2024-06-27 15:16:37.347+0000 INFO  Notify listeners for DB 'system' with new enrichment mode: OFF
+2024-06-27 15:16:37.348+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 15:16:37.348+0000 INFO  Sending metrics to CSV file at /Users/rishis/Library/Application Support/Neo4j Desktop/Application/relate-data/dbmss/dbms-189dfc48-e7bb-4890-a233-1123605f29a6/metrics
+2024-06-27 15:16:37.370+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage_data/
+2024-06-27 15:16:37.375+0000 INFO  Bolt enabled on localhost:7687.
+2024-06-27 15:16:37.376+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2024-06-27 15:16:37.408+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 15:16:37.501+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 15:16:37.504+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 15:16:37.842+0000 INFO  HTTP enabled on localhost:7474.
+2024-06-27 15:16:37.842+0000 INFO  Remote interface available at http://localhost:7474/
+2024-06-27 15:16:37.844+0000 INFO  id: 65CFA1055A1726085BC8507CD7450A98E3B941F07AD4B8FC4B0E9D478A7D1925
+2024-06-27 15:16:37.844+0000 INFO  name: system
+2024-06-27 15:16:37.844+0000 INFO  creationDate: 2024-06-27T15:16:35.822Z
+2024-06-27 15:16:37.844+0000 INFO  Started.
+2024-06-27 16:03:43.969+0000 INFO  Neo4j Server shutdown initiated by request
+2024-06-27 16:03:43.969+0000 INFO  Stopping...
+2024-06-27 16:03:49.125+0000 INFO  Stopped.
+2024-06-27 16:03:52.343+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2024-06-27 16:03:52.345+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2024-06-27 16:03:52.345+0000 INFO  Logging config in use: File '/Users/rishis/Library/Application Support/Neo4j Desktop/Application/relate-data/dbmss/dbms-189dfc48-e7bb-4890-a233-1123605f29a6/conf/user-logs.xml'
+2024-06-27 16:03:52.349+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2024-06-27 16:03:52.381+0000 WARN  Use of deprecated setting 'dbms.jvm.additional'. It is replaced by 'server.jvm.additional'.
+2024-06-27 16:03:52.381+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2024-06-27 16:03:52.381+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2024-06-27 16:03:52.381+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2024-06-27 16:03:52.383+0000 INFO  Starting...
+2024-06-27 16:03:55.248+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:5000]'} to '[localhost:5000]'
+2024-06-27 16:03:55.933+0000 INFO  ======== Neo4j 5.20.0 ========
+2024-06-27 16:03:55.946+0000 INFO  This instance is ServerId{b79c8c59} (b79c8c59-1761-4b62-9ec6-1ad4108ccc73)
+2024-06-27 16:03:55.965+0000 INFO  Progress tracking: enabled
+2024-06-27 16:03:55.965+0000 INFO  Memory usage guard: minimum estimate
+2024-06-27 16:03:55.968+0000 INFO  GDS license file: null
+2024-06-27 16:03:55.969+0000 INFO  GDS license state: unlicensed
+2024-06-27 16:03:55.972+0000 INFO  Register GraphDataScience...
+2024-06-27 16:03:55.982+0000 INFO  GraphDataScience registered.
+2024-06-27 16:03:55.982+0000 INFO  Register GraphDataScienceExtras...
+2024-06-27 16:03:55.983+0000 INFO  GraphDataScienceExtras registered.
+2024-06-27 16:03:55.983+0000 INFO  Register MetricsFacade...
+2024-06-27 16:03:55.983+0000 INFO  MetricsFacade registered.
+2024-06-27 16:03:55.984+0000 INFO  Register legacy Task Store/ Registry...
+2024-06-27 16:03:55.984+0000 INFO  Task Store/ Registry registered.
+2024-06-27 16:03:55.984+0000 INFO  Register legacy User Log Registry...
+2024-06-27 16:03:55.984+0000 INFO  User Log Registry registered.
+2024-06-27 16:03:56.074+0000 INFO  GDS compatibility: for Neo4j Settings 5.x -- available, for Neo4j Settings 4.4 -- not available, selected: Neo4j Settings 5.x
+2024-06-27 16:03:56.075+0000 INFO  GDS compatibility: for Neo4j 4.4 -- not available, for Neo4j 5.11 -- not available, for Neo4j 5.12 -- not available, for Neo4j 5.13 -- not available, for Neo4j 5.14 -- not available, for Neo4j 5.15 -- not available, for Neo4j 5.16 -- not available, for Neo4j 5.17 -- not available, for Neo4j 5.18 -- not available, for Neo4j 5.19 -- not available, for Neo4j 5.20 -- available, selected: Neo4j 5.20
+2024-06-27 16:03:56.176+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:5000]'} to '[localhost:5000]'
+2024-06-27 16:04:03.985+0000 INFO  Notify listeners for DB 'system' with new enrichment mode: OFF
+2024-06-27 16:04:03.986+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 16:04:03.987+0000 INFO  Sending metrics to CSV file at /Users/rishis/Library/Application Support/Neo4j Desktop/Application/relate-data/dbmss/dbms-189dfc48-e7bb-4890-a233-1123605f29a6/metrics
+2024-06-27 16:04:04.007+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage_data/
+2024-06-27 16:04:04.011+0000 INFO  Bolt enabled on localhost:7687.
+2024-06-27 16:04:04.012+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2024-06-27 16:04:04.057+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 16:04:04.207+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 16:04:04.210+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 16:04:04.484+0000 INFO  HTTP enabled on localhost:7474.
+2024-06-27 16:04:04.484+0000 INFO  Remote interface available at http://localhost:7474/
+2024-06-27 16:04:04.486+0000 INFO  id: 65CFA1055A1726085BC8507CD7450A98E3B941F07AD4B8FC4B0E9D478A7D1925
+2024-06-27 16:04:04.486+0000 INFO  name: system
+2024-06-27 16:04:04.487+0000 INFO  creationDate: 2024-06-27T15:16:35.822Z
+2024-06-27 16:04:04.487+0000 INFO  Started.
+2024-06-27 16:32:33.944+0000 INFO  Neo4j Server shutdown initiated by request
+2024-06-27 16:32:33.945+0000 INFO  Stopping...
+2024-06-27 16:32:39.051+0000 INFO  Stopped.
+2024-06-27 16:32:42.171+0000 INFO  Running in daemon mode, all <Console> appenders will be suppressed:
+2024-06-27 16:32:42.174+0000 INFO  Removing console appender 'ConsoleAppender' with target 'SYSTEM_OUT'.
+2024-06-27 16:32:42.174+0000 INFO  Logging config in use: File '/Users/rishis/Library/Application Support/Neo4j Desktop/Application/relate-data/dbmss/dbms-189dfc48-e7bb-4890-a233-1123605f29a6/conf/user-logs.xml'
+2024-06-27 16:32:42.179+0000 INFO  The license agreement was accepted with environment variable NEO4J_ACCEPT_LICENSE_AGREEMENT=yes when the Software was started.
+
+
+2024-06-27 16:32:42.210+0000 WARN  Use of deprecated setting 'dbms.jvm.additional'. It is replaced by 'server.jvm.additional'.
+2024-06-27 16:32:42.210+0000 WARN  Use of deprecated setting 'dbms.memory.pagecache.size'. It is replaced by 'server.memory.pagecache.size'.
+2024-06-27 16:32:42.210+0000 WARN  Use of deprecated setting 'dbms.memory.heap.max_size'. It is replaced by 'server.memory.heap.max_size'.
+2024-06-27 16:32:42.211+0000 WARN  Use of deprecated setting 'dbms.memory.heap.initial_size'. It is replaced by 'server.memory.heap.initial_size'.
+2024-06-27 16:32:42.212+0000 INFO  Starting...
+2024-06-27 16:32:44.451+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:5000]'} to '[localhost:5000]'
+2024-06-27 16:32:45.104+0000 INFO  ======== Neo4j 5.20.0 ========
+2024-06-27 16:32:45.116+0000 INFO  This instance is ServerId{b79c8c59} (b79c8c59-1761-4b62-9ec6-1ad4108ccc73)
+2024-06-27 16:32:45.141+0000 INFO  Progress tracking: enabled
+2024-06-27 16:32:45.141+0000 INFO  Memory usage guard: minimum estimate
+2024-06-27 16:32:45.144+0000 INFO  GDS license file: null
+2024-06-27 16:32:45.144+0000 INFO  GDS license state: unlicensed
+2024-06-27 16:32:45.147+0000 INFO  Register GraphDataScience...
+2024-06-27 16:32:45.158+0000 INFO  GraphDataScience registered.
+2024-06-27 16:32:45.158+0000 INFO  Register GraphDataScienceExtras...
+2024-06-27 16:32:45.158+0000 INFO  GraphDataScienceExtras registered.
+2024-06-27 16:32:45.158+0000 INFO  Register MetricsFacade...
+2024-06-27 16:32:45.159+0000 INFO  MetricsFacade registered.
+2024-06-27 16:32:45.159+0000 INFO  Register legacy Task Store/ Registry...
+2024-06-27 16:32:45.159+0000 INFO  Task Store/ Registry registered.
+2024-06-27 16:32:45.159+0000 INFO  Register legacy User Log Registry...
+2024-06-27 16:32:45.159+0000 INFO  User Log Registry registered.
+2024-06-27 16:32:45.305+0000 INFO  GDS compatibility: for Neo4j Settings 5.x -- available, for Neo4j Settings 4.4 -- not available, selected: Neo4j Settings 5.x
+2024-06-27 16:32:45.305+0000 INFO  GDS compatibility: for Neo4j 4.4 -- not available, for Neo4j 5.11 -- not available, for Neo4j 5.12 -- not available, for Neo4j 5.13 -- not available, for Neo4j 5.14 -- not available, for Neo4j 5.15 -- not available, for Neo4j 5.16 -- not available, for Neo4j 5.17 -- not available, for Neo4j 5.18 -- not available, for Neo4j 5.19 -- not available, for Neo4j 5.20 -- available, selected: Neo4j 5.20
+2024-06-27 16:32:45.392+0000 INFO  Resolved endpoints with LIST{endpoints:'[localhost:5000]'} to '[localhost:5000]'
+2024-06-27 16:32:53.483+0000 INFO  Notify listeners for DB 'system' with new enrichment mode: OFF
+2024-06-27 16:32:53.483+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 16:32:53.484+0000 INFO  Sending metrics to CSV file at /Users/rishis/Library/Application Support/Neo4j Desktop/Application/relate-data/dbmss/dbms-189dfc48-e7bb-4890-a233-1123605f29a6/metrics
+2024-06-27 16:32:53.500+0000 INFO  Anonymous Usage Data is being sent to Neo4j, see https://neo4j.com/docs/usage_data/
+2024-06-27 16:32:53.505+0000 INFO  Bolt enabled on localhost:7687.
+2024-06-27 16:32:53.505+0000 INFO  Bolt (Routing) enabled on localhost:7688.
+2024-06-27 16:32:53.545+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 16:32:53.674+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 16:32:53.677+0000 INFO  Notify listeners for DB 'neo4j' with new enrichment mode: OFF
+2024-06-27 16:32:53.950+0000 INFO  HTTP enabled on localhost:7474.
+2024-06-27 16:32:53.950+0000 INFO  Remote interface available at http://localhost:7474/
+2024-06-27 16:32:53.952+0000 INFO  id: 65CFA1055A1726085BC8507CD7450A98E3B941F07AD4B8FC4B0E9D478A7D1925
+2024-06-27 16:32:53.952+0000 INFO  name: system
+2024-06-27 16:32:53.952+0000 INFO  creationDate: 2024-06-27T15:16:35.822Z
+2024-06-27 16:32:53.952+0000 INFO  Started.
+2024-06-27 16:34:11.497+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Start
+2024-06-27 16:34:11.499+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Nodes :: Start
+2024-06-27 16:34:11.500+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Nodes :: Store Scan :: Start
+2024-06-27 16:34:11.526+0000 INFO  [node-store-scan-1] Loading :: Nodes :: Store Scan 100%
+2024-06-27 16:34:11.527+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Nodes :: Store Scan :: Finished
+2024-06-27 16:34:11.530+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Nodes :: Finished
+2024-06-27 16:34:11.530+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Relationships :: Start
+2024-06-27 16:34:11.531+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Relationships :: Store Scan :: Start
+2024-06-27 16:34:11.577+0000 INFO  [relationship-store-scan-0] Loading :: Relationships :: Store Scan 100%
+2024-06-27 16:34:11.579+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Relationships :: Store Scan :: Finished
+2024-06-27 16:34:11.601+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Relationships :: Finished
+2024-06-27 16:34:11.602+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] Loading :: Finished
+2024-06-27 16:34:25.052+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] BetweennessCentrality :: Start
+2024-06-27 16:34:25.053+0000 INFO  [gds-2] BetweennessCentrality 5%
+2024-06-27 16:34:25.053+0000 INFO  [gds-3] BetweennessCentrality 10%
+2024-06-27 16:34:25.053+0000 INFO  [gds-1] BetweennessCentrality 15%
+2024-06-27 16:34:25.053+0000 INFO  [gds-4] BetweennessCentrality 20%
+2024-06-27 16:34:25.055+0000 INFO  [gds-4] BetweennessCentrality 25%
+2024-06-27 16:34:25.055+0000 INFO  [gds-1] BetweennessCentrality 30%
+2024-06-27 16:34:25.056+0000 INFO  [gds-3] BetweennessCentrality 35%
+2024-06-27 16:34:25.056+0000 INFO  [gds-1] BetweennessCentrality 40%
+2024-06-27 16:34:25.056+0000 INFO  [gds-4] BetweennessCentrality 45%
+2024-06-27 16:34:25.056+0000 INFO  [gds-1] BetweennessCentrality 50%
+2024-06-27 16:34:25.056+0000 INFO  [gds-2] BetweennessCentrality 55%
+2024-06-27 16:34:25.056+0000 INFO  [gds-1] BetweennessCentrality 60%
+2024-06-27 16:34:25.056+0000 INFO  [gds-4] BetweennessCentrality 65%
+2024-06-27 16:34:25.056+0000 INFO  [gds-1] BetweennessCentrality 70%
+2024-06-27 16:34:25.056+0000 INFO  [gds-3] BetweennessCentrality 75%
+2024-06-27 16:34:25.057+0000 INFO  [gds-1] BetweennessCentrality 80%
+2024-06-27 16:34:25.057+0000 INFO  [gds-4] BetweennessCentrality 85%
+2024-06-27 16:34:25.057+0000 INFO  [gds-1] BetweennessCentrality 90%
+2024-06-27 16:34:25.057+0000 INFO  [gds-2] BetweennessCentrality 95%
+2024-06-27 16:34:25.057+0000 INFO  [gds-3] BetweennessCentrality 100%
+2024-06-27 16:34:25.057+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] BetweennessCentrality :: Finished
+2024-06-27 16:34:33.142+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Start
+2024-06-27 16:34:33.180+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 1 of 20 :: Start
+2024-06-27 16:34:33.185+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 1 of 20 100%
+2024-06-27 16:34:33.185+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 1 of 20 :: Finished
+2024-06-27 16:34:33.185+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 1 of 20 :: Start
+2024-06-27 16:34:33.185+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 1 of 20 100%
+2024-06-27 16:34:33.185+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 1 of 20 :: Finished
+2024-06-27 16:34:33.185+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 2 of 20 :: Start
+2024-06-27 16:34:33.188+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 2 of 20 100%
+2024-06-27 16:34:33.188+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 2 of 20 :: Finished
+2024-06-27 16:34:33.188+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 2 of 20 :: Start
+2024-06-27 16:34:33.188+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 2 of 20 100%
+2024-06-27 16:34:33.188+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 2 of 20 :: Finished
+2024-06-27 16:34:33.188+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 3 of 20 :: Start
+2024-06-27 16:34:33.189+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 3 of 20 100%
+2024-06-27 16:34:33.189+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 3 of 20 :: Finished
+2024-06-27 16:34:33.190+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 3 of 20 :: Start
+2024-06-27 16:34:33.190+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 3 of 20 100%
+2024-06-27 16:34:33.190+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 3 of 20 :: Finished
+2024-06-27 16:34:33.190+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 4 of 20 :: Start
+2024-06-27 16:34:33.191+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 4 of 20 100%
+2024-06-27 16:34:33.191+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 4 of 20 :: Finished
+2024-06-27 16:34:33.191+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 4 of 20 :: Start
+2024-06-27 16:34:33.191+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 4 of 20 100%
+2024-06-27 16:34:33.191+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 4 of 20 :: Finished
+2024-06-27 16:34:33.191+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 5 of 20 :: Start
+2024-06-27 16:34:33.192+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 5 of 20 100%
+2024-06-27 16:34:33.192+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 5 of 20 :: Finished
+2024-06-27 16:34:33.192+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 5 of 20 :: Start
+2024-06-27 16:34:33.192+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 5 of 20 100%
+2024-06-27 16:34:33.192+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 5 of 20 :: Finished
+2024-06-27 16:34:33.192+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 6 of 20 :: Start
+2024-06-27 16:34:33.192+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 6 of 20 100%
+2024-06-27 16:34:33.192+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 6 of 20 :: Finished
+2024-06-27 16:34:33.193+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 6 of 20 :: Start
+2024-06-27 16:34:33.193+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 6 of 20 100%
+2024-06-27 16:34:33.193+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 6 of 20 :: Finished
+2024-06-27 16:34:33.193+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 7 of 20 :: Start
+2024-06-27 16:34:33.194+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 7 of 20 100%
+2024-06-27 16:34:33.194+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 7 of 20 :: Finished
+2024-06-27 16:34:33.194+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 7 of 20 :: Start
+2024-06-27 16:34:33.194+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 7 of 20 100%
+2024-06-27 16:34:33.194+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 7 of 20 :: Finished
+2024-06-27 16:34:33.194+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 8 of 20 :: Start
+2024-06-27 16:34:33.195+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 8 of 20 100%
+2024-06-27 16:34:33.195+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 8 of 20 :: Finished
+2024-06-27 16:34:33.195+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 8 of 20 :: Start
+2024-06-27 16:34:33.195+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 8 of 20 100%
+2024-06-27 16:34:33.196+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 8 of 20 :: Finished
+2024-06-27 16:34:33.196+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 9 of 20 :: Start
+2024-06-27 16:34:33.197+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 9 of 20 100%
+2024-06-27 16:34:33.198+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 9 of 20 :: Finished
+2024-06-27 16:34:33.198+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 9 of 20 :: Start
+2024-06-27 16:34:33.198+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 9 of 20 100%
+2024-06-27 16:34:33.198+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 9 of 20 :: Finished
+2024-06-27 16:34:33.198+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 10 of 20 :: Start
+2024-06-27 16:34:33.199+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 10 of 20 100%
+2024-06-27 16:34:33.200+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 10 of 20 :: Finished
+2024-06-27 16:34:33.200+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 10 of 20 :: Start
+2024-06-27 16:34:33.200+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 10 of 20 100%
+2024-06-27 16:34:33.200+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 10 of 20 :: Finished
+2024-06-27 16:34:33.200+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 11 of 20 :: Start
+2024-06-27 16:34:33.201+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 11 of 20 100%
+2024-06-27 16:34:33.201+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 11 of 20 :: Finished
+2024-06-27 16:34:33.201+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 11 of 20 :: Start
+2024-06-27 16:34:33.201+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 11 of 20 100%
+2024-06-27 16:34:33.201+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 11 of 20 :: Finished
+2024-06-27 16:34:33.201+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 12 of 20 :: Start
+2024-06-27 16:34:33.203+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 12 of 20 100%
+2024-06-27 16:34:33.203+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 12 of 20 :: Finished
+2024-06-27 16:34:33.203+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 12 of 20 :: Start
+2024-06-27 16:34:33.203+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 12 of 20 100%
+2024-06-27 16:34:33.203+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 12 of 20 :: Finished
+2024-06-27 16:34:33.203+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 13 of 20 :: Start
+2024-06-27 16:34:33.205+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 13 of 20 100%
+2024-06-27 16:34:33.205+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 13 of 20 :: Finished
+2024-06-27 16:34:33.205+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 13 of 20 :: Start
+2024-06-27 16:34:33.205+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 13 of 20 100%
+2024-06-27 16:34:33.205+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 13 of 20 :: Finished
+2024-06-27 16:34:33.206+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 14 of 20 :: Start
+2024-06-27 16:34:33.206+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 14 of 20 100%
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 14 of 20 :: Finished
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 14 of 20 :: Start
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 14 of 20 100%
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 14 of 20 :: Finished
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 15 of 20 :: Start
+2024-06-27 16:34:33.207+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 15 of 20 100%
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 15 of 20 :: Finished
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 15 of 20 :: Start
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 15 of 20 100%
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 15 of 20 :: Finished
+2024-06-27 16:34:33.207+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 16 of 20 :: Start
+2024-06-27 16:34:33.208+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 16 of 20 100%
+2024-06-27 16:34:33.208+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 16 of 20 :: Finished
+2024-06-27 16:34:33.208+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 16 of 20 :: Start
+2024-06-27 16:34:33.208+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 16 of 20 100%
+2024-06-27 16:34:33.208+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 16 of 20 :: Finished
+2024-06-27 16:34:33.208+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 17 of 20 :: Start
+2024-06-27 16:34:33.209+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 17 of 20 100%
+2024-06-27 16:34:33.209+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 17 of 20 :: Finished
+2024-06-27 16:34:33.209+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 17 of 20 :: Start
+2024-06-27 16:34:33.209+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 17 of 20 100%
+2024-06-27 16:34:33.209+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 17 of 20 :: Finished
+2024-06-27 16:34:33.209+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 18 of 20 :: Start
+2024-06-27 16:34:33.209+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 18 of 20 100%
+2024-06-27 16:34:33.210+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 18 of 20 :: Finished
+2024-06-27 16:34:33.210+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 18 of 20 :: Start
+2024-06-27 16:34:33.210+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 18 of 20 100%
+2024-06-27 16:34:33.210+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 18 of 20 :: Finished
+2024-06-27 16:34:33.210+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 19 of 20 :: Start
+2024-06-27 16:34:33.211+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 19 of 20 100%
+2024-06-27 16:34:33.211+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 19 of 20 :: Finished
+2024-06-27 16:34:33.211+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 19 of 20 :: Start
+2024-06-27 16:34:33.211+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 19 of 20 100%
+2024-06-27 16:34:33.211+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 19 of 20 :: Finished
+2024-06-27 16:34:33.211+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 20 of 20 :: Start
+2024-06-27 16:34:33.211+0000 INFO  [gds-forkjoin-0] PageRank :: Compute iteration 20 of 20 100%
+2024-06-27 16:34:33.212+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Compute iteration 20 of 20 :: Finished
+2024-06-27 16:34:33.212+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 20 of 20 :: Start
+2024-06-27 16:34:33.212+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 20 of 20 100%
+2024-06-27 16:34:33.212+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Master compute iteration 20 of 20 :: Finished
+2024-06-27 16:34:33.212+0000 INFO  [neo4j.BoltWorker-5 [bolt-12 - /127.0.0.1:61587]] PageRank :: Finished
+2024-06-27 16:36:14.369+0000 INFO  [neo4j.BoltWorker-4 [bolt-12 - /127.0.0.1:61587]] Dijkstra :: Start
+2024-06-27 16:36:14.372+0000 INFO  [neo4j.BoltWorker-4 [bolt-12 - /127.0.0.1:61587]] Dijkstra 3%
+2024-06-27 16:36:14.373+0000 INFO  [neo4j.BoltWorker-4 [bolt-12 - /127.0.0.1:61587]] Dijkstra 12%
+2024-06-27 16:36:14.373+0000 INFO  [neo4j.BoltWorker-4 [bolt-12 - /127.0.0.1:61587]] Dijkstra 15%
+2024-06-27 16:36:14.373+0000 INFO  [neo4j.BoltWorker-4 [bolt-12 - /127.0.0.1:61587]] Dijkstra 19%
+2024-06-27 16:36:14.373+0000 INFO  [neo4j.BoltWorker-4 [bolt-12 - /127.0.0.1:61587]] Dijkstra 25%
+2024-06-27 16:36:14.376+0000 INFO  [neo4j.BoltWorker-4 [bolt-12 - /127.0.0.1:61587]] Dijkstra 100%
+2024-06-27 16:36:14.376+0000 INFO  [neo4j.BoltWorker-4 [bolt-12 - /127.0.0.1:61587]] Dijkstra :: Finished
